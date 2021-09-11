@@ -1,0 +1,8 @@
+{
+  "name": "Carmello",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "04d31477"
+}
